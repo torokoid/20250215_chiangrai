@@ -151,7 +151,7 @@ p.note { display: none; }
 <h2><span class="yellow">朝のお花は夕方も元気に満開のままでした</span></h2>
 <a href="20250215_009.JPG" target="_blank"><img src="20250215_009.JPG" alt="サンプル画像" width="900" /></a>
     
-<h2><span class="yellow">西の空には薄雲がかかってますが、ことなとなんとか夕焼けに</span></h2>
+<h2><span class="yellow">西の空には薄雲がかかってますが、このあとなんとか夕焼けに</span></h2>
 <a href="20250215_010.JPG" target="_blank"><img src="20250215_010.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250215_011.JPG" target="_blank"><img src="20250215_011.JPG" alt="サンプル画像" width="900" /></a>
     
